@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogRace_Assign_sep", "DogRace_Assign_sep\DogRace_Assign_sep.csproj", "{6D56172F-8367-4935-9782-FCE7183B3CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogRace_Assign_sepTests", "DogRace_Assign_sepTests\DogRace_Assign_sepTests.csproj", "{89893D3C-C15B-4048-B7E6-A4A612B0EABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D56172F-8367-4935-9782-FCE7183B3CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D56172F-8367-4935-9782-FCE7183B3CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D56172F-8367-4935-9782-FCE7183B3CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D56172F-8367-4935-9782-FCE7183B3CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89893D3C-C15B-4048-B7E6-A4A612B0EABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89893D3C-C15B-4048-B7E6-A4A612B0EABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89893D3C-C15B-4048-B7E6-A4A612B0EABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89893D3C-C15B-4048-B7E6-A4A612B0EABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA254A0-75D3-4471-BADF-A94E66373878}
+	EndGlobalSection
+EndGlobal
